@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! </h1>
 
-- 🏫: I'm a grade 7, Information Systems in the University of Guanajuato.
+- 🏫: I'm a grade 7, Management Information Systems in the University of Guanajuato.
 - 🔭: I’m currently working on many small ML projects.
 - 🌱: I’m currently learning Neural Networks, Deep Learning and Kotlin. 
 - 😄  Pronouns: He/His
