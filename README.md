@@ -6,9 +6,9 @@
 <Br>
 <h1>About Me! </h1>
 
-- 🏫: I'm a grade 7, Management Information Systems in the University of Guanajuato.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks, Deep Learning and Kotlin. 
+- 🎓: Bachelor's degree in Management Information Systems from the University of Guanajuato.
+- 🔭: I’m currently web developer.
+- 🌱: I’m currently learning Flask, Angular, Vue, Vuetify and .Net. 
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I like gym. 🏋️
   
@@ -17,7 +17,7 @@
 <h1 align="center">How to reach me! 📬</h1>
 <Br>
 <p align="center">
-<a href="www.linkedin.com/in/gustavo-león-landeros" target="blank"><img align="center" src="https://img.shields.io/badge/Gustavo León-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:gleonlanderos@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gleonlanderos@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Acceleretta" target="blank"><img align="center" src="https://img.shields.io/badge/Acceleretta-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gustavo-le%C3%B3n-landeros/" target="blank"><img align="center" src="https://img.shields.io/badge/Gustavo León-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:gleonlanderos@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gleonlanderos@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Chocotabo" target="blank"><img align="center" src="https://img.shields.io/badge/Acceleretta-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -25,10 +25,11 @@
 <Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
-  
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Android%20Developing-red?style=for-the-badge)|![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+|![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)|![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)|![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+|![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)|![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)|![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)|![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)|![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)|
+|![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)|![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|![REST](https://img.shields.io/badge/API-REST-%23007EC6?style=for-the-badge)|![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|
 
   
 <Br>
@@ -36,10 +37,10 @@
 <Br>
 <h1>Tools I use! 🛠️</h1>
 <Br>
- 
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
+
+|![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)|![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)|![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)|![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)|![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)|![Terminal](https://img.shields.io/badge/terminal-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|![And More!](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
 
 <Br>
@@ -71,4 +72,4 @@
 
 ------
   
-Last Edited on: 03/08/2024
+Last Edited on: 22/05/2025
